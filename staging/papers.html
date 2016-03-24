@@ -1,0 +1,169 @@
+---
+layout: default
+---
+
+{% include slider-cf-papers.html %}
+
+<!-- Content -->
+<div class="block">
+  <div class="container">
+    <div class="row">
+      <div class="col-md-3">
+        <section class="events small" id="events-small">
+          <header>
+            <h2>Important Dates</h2>
+          </header>
+                    <div class="section-content">
+            <article class="event nearest">
+              <figure class="date">
+                <div class="month">may</div>
+                <div class="day">17</div>
+              </figure>
+              <aside>
+                <header>
+                  Submission deadline for abstracts
+                </header>
+              </aside>
+            </article><!-- /article -->
+            <article class="event nearest-second">
+              <figure class="date">
+                <div class="month">may</div>
+                <div class="day">24</div>
+              </figure>
+              <aside>
+                <header>
+                  Submission deadline for full papers
+                </header>
+              </aside>
+            </article><!-- /article -->
+            <article class="event nearest">
+              <figure class="date">
+                <div class="month">july</div>
+                <div class="day">29</div>
+              </figure>
+              <aside>
+                <header>
+                  Acceptance notification
+                </header>
+              </aside>
+            </article><!-- /article -->
+            <article class="event nearest-second">
+              <figure class="date">
+                <div class="month">aug</div>
+                <div class="day">26</div>
+              </figure>
+              <aside>
+                <header>
+                  Camera-ready deadline
+                </header>
+              </aside>
+            </article><!-- /article -->
+          </div><!-- /.section-content -->
+        </section><!-- /.events-small -->
+
+        <section class="events small" id="events-small">
+          <header>
+            <h2>Links</h2>
+          </header>
+          <div class="section-content">
+            <ul class="list-links">
+              <li><h4><a href="#submission">Paper submission</a></h4></li>
+              <li><h4><a href="#guidelines">Submission guidelines</a></h4></li>
+              <li><h4><a href="#submit">Submission site</a></h4></li>
+              <li><h4><a href="posters.html">Call for posters</a></h4></li>
+              <li><h4><a href="program-committee.html">Program committee</a></h4></li>
+            </ul>
+          </div><!-- /.section-content -->
+        </section><!-- /.events-small -->
+      </div><!-- /.col-md-3 -->
+
+      <div class="col-md-6">
+        <section id="main-content">
+          <header>
+            <h1>Call for papers</h1>
+          </header>
+          <div class="section-content">
+            <p>
+            The annual ACM Symposium on Cloud Computing brings together researchers, developers, users, and
+            practitioners interested in cloud computing. We solicit original contributions on all aspects of 
+            cloud computing. We particularly encourage submissions on the research, development, 
+            practice, and experience of cloud computing systems and data management. Specific topics 
+            of interest include but are not limited to the following, when related to cloud:
+            </p>
+
+            {% include topics.html %}
+
+            <a id="submission"><h2>Submission categories</h2></a>
+            <p>
+              Authors are invited to submit original papers that are not being considered for publication in any other
+              forum. A submission to the symposium may be one of the following types.
+            </p>
+            <ul>
+	      <li>Research Papers describe original research, where novelty is a primary consideration.</li>
+	      <li>Experience Papers describe industrial and academic experiences with existing systems, where lessons from the experience are a primary consideration.</li>
+	      <li>Vision Papers describe speculative but well-reasoned and thought-provoking ideas, where insight is a primary consideration.</li>
+            </ul>
+            <br>
+            <p>
+              Submissions will be judged based on their originality, technical merit, relevance, value to the community, 
+              and likelihood of producing interesting discussions at the symposium. Submissions will be kept confidential 
+              until accepted. Rejected submissions will be kept confidential permanently.
+            </p>
+
+
+            <a id="guidelines"><h2>Submission guidelines</h2></a>
+            <p>
+            Papers must meet the following formatting rules in order to be considered for publication.
+            Submissions cannot be accompanied by nondisclosure, confidentiality, or similar agreements.
+            Papers that violate these requirements will be rejected without reviews. Non-rejected papers 
+            will be shepherded, and final acceptance will be conditional on the shepherd’s approval.
+
+            </p>
+            
+            <h3>Paper format & fonts</h3>
+            <p>
+            Submissions must be in PDF format using <b>10-point font</b> on 12-point leading, Times-Roman or similar 
+            typeface, letter-sized paper, double column, a text block of 6.5 inches wide by 9 inches tall, 
+            with numbered pages. A LaTeX template is available <a href="assets/template.tex" target="_blank">here</a>, but authors can use other templates 
+            or editors that conform with the requirements. Judicious use of color is permitted, 
+            but the paper should print clearly in black and white.
+            <br><br>
+            <a href="assets/template.tex" target="_blank">Latex Template</a>
+            
+            </p>
+            
+
+            <h3>Page limit</h3>
+            <p>
+              Submissions can have up to <b>12 pages</b>, including title, author list, and abstract, but excluding references. 
+            </p>
+
+            <h3>Paper type</h3>
+            <p>
+              Following the list of author names and affiliations on the first page, papers should indicate the submission type (research, experience, vision).
+            </p>
+
+
+            <a id="posters"><h2>Posters</h2></a>
+            <p>
+               Details and deadlines for poster submissions are available in the <a href="posters.html">call for posters</a>. 
+               Papers accepted to the conference are automatically allowed to have a poster. 
+            </p>
+
+            <a id="submit"><h2>Submission site</h2></a>
+            <p>
+              Coming soon!
+            </p>
+
+          </div><!-- /.section-content -->
+        </section><!-- /.main-content -->
+      </div><!-- /.col-md-6 -->
+
+      <div class="col-md-3">
+        {% include latest-news.html %}
+      </div><!-- /.col-md-3 -->
+
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</div>
+<!-- end Content -->
