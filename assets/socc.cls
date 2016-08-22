@@ -815,10 +815,10 @@
   \toappear{%
     \noindent \@permission \par
     \vspace{2pt}
-    \noindent \textsl{\@conferencename}, \quad \@conferenceinfo. \par
+    \noindent \textsl{\@conferencename \, \@conferenceinfo.} \par
     \noindent Copyright is held by the owner/author(s). Publication rights licensed to ACM. \par
     \noindent ACM \@copyrightdata \dots \@reprintprice.\par
-    \noindent \@doi}}
+    \noindent DOI: \@doi}}
 
 \newcommand{\permissiontopublish}{%
   \permission{%
@@ -831,10 +831,10 @@
   \toappear{%
     \noindent \@permission \par
     \vspace{2pt}
-    \noindent \textsl{\@conferencename}, \quad \@conferenceinfo. \par
+    \noindent \textsl{\@conferencename\, \@conferenceinfo.} \par
     \noindent Copyright is held by the owner/author(s). \par
     \noindent ACM \@copyrightdata.\par
-    \noindent http://dx.doi.org/10.1145/\@doi}}
+    \noindent DOI: \@doi}}
 
 % The following permission notices are
 % for the traditional copyright transfer agreement option.
@@ -870,9 +870,9 @@
   \toappear{%
     \noindent \@permission \par
     \vspace{2pt}
-    \noindent \textsl{\@conferencename}, \quad \@conferenceinfo. \par
+    \noindent \textsl{\@conferencename \, \@conferenceinfo.} \par
     \noindent ACM \@copyrightdata.\par
-    \noindent http://dx.doi.org/10.1145/\@doi}}
+    \noindent DOI: \@doi}}
 
 \newcommand{\authorversion}[4]{%
   \permission{%
