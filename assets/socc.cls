@@ -818,7 +818,7 @@
     \noindent \textsl{\@conferencename}, \quad \@conferenceinfo. \par
     \noindent Copyright is held by the owner/author(s). Publication rights licensed to ACM. \par
     \noindent ACM \@copyrightdata \dots \@reprintprice.\par
-    \noindent http://dx.doi.org/10.1145/\@doi}}
+    \noindent \@doi}}
 
 \newcommand{\permissiontopublish}{%
   \permission{%
