@@ -1,9 +1,8 @@
-yavatkar:
-  name: 'Raj Yavatkar (VMware)'
+davie:
+  name: 'Bruce Davie (VMware)'
  
-  bio1: "Raj Yavatkar is the Chief Architect for VMware Cloud Foundation which is a unified platform for building private and hybrid clouds. Previously, he was an Intel Fellow for ten years. At Intel, Raj had an excellent track record of driving innovative technology/product development spanning many areas including Atom-based SoCs, system architecture, security/manageability, network processors, Internet protocols, and Open Networking Architecture. He was the Chief Software Architect for Intel's IXP family of network processors. Raj also was the principal co-inventor of the Active Manageability Technology that eventually turned into the Intel vPro brand."
-  bio2: "Dr. Yavatkar is an IEEE Fellow, received his Ph.D. in Computer Science from Purdue University,  and holds more than 35 patents. Raj has authored or co-authored five Internet standards. Dr. Yavatkar has also published more than 60 papers in academic journals and conferences and has co-authored the book, Inside the Internet's Resource Reservation Protocol (RSVP) published by John Wiley."
-
+  bio1: "Bruce Davie is CTO for Networking at VMware, and a Principal Engineer in the Networking and Security BU. He joined VMware as part of the Nicira acquisition, and focuses on network virtualization. He has over 25 years of networking industry experience, and was a Cisco Fellow prior to joining Nicira. At Cisco, he worked closely with leading service providers to enhance the capabilities of their networks. He led the team that developed multi-protocol label switching (MPLS) and contributed to the standards on IP quality of service. He has written over a dozen Internet RFCs and several networking textbooks. Bruce received his Ph. D. in computer science from the University of Edinburgh in 1988 and is an ACM Fellow."
+  
 barroso:
   name: 'Luiz Andre Barroso (Google)'
   
