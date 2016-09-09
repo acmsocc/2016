@@ -624,7 +624,7 @@ ul.list-links a:hover {
 }
 .course-detail .author-block .author-picture img, .event-detail .author-block .author-picture img {
   max-width: inherit;
-  width: 80px;
+  width: 100px;
 }
 .course-detail .author-block .paragraph-wrapper, .event-detail .author-block .paragraph-wrapper {
   padding-left: 25px;

@@ -2,7 +2,7 @@
 layout: default
 ---
 
-{% include slider-schedule.html %}
+{% include slider-keynotes.html %}
 
 <!-- Content -->
 <div class="block">
@@ -11,11 +11,12 @@ layout: default
   <div class="col-md-9">
     <section id="main-content">
       <div class="section-content">
-        <h2>Schedule</h2>
-        {% include session.html date="Tuesday, October 4th" key="day0" showlinks="false" %}
-        {% include session.html date="Wednesday, October 5th" key="day1" showlinks="false" %}
-        {% include session.html date="Thursday, October 6th" key="day2" showlinks="false" %}
-        {% include session.html date="Friday, October 7th" key="day3" showlinks="false" %}
+        <h2>Keynote Speakers</h2>
+        <a id="yavatkar">{% include keynote-speaker.html key="yavatkar" photo="assets/img/yavatkar.jpeg" %}</a>
+        <br />
+        {% include keynote-speaker.html key="barroso" photo="assets/img/barroso.jpg" %}
+        <br />
+        {% include keynote-speaker.html key="stoica" photo="assets/img/stoica.jpg" %}
       </div><!-- /.section-content -->
     </section><!-- /.main-content -->
   </div><!-- /.col-md-9 -->
