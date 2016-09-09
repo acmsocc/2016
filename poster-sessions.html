@@ -1,0 +1,32 @@
+---
+layout: default
+---
+
+{% include slider-poster-sessions.html %}
+
+<!-- Content -->
+<div class="block">
+  <div class="container">
+    <div class="row">
+
+      <div class="col-md-9">
+        <section id="main-content">
+          <div class="section-content">
+            <h2 id="session1"><font style="color:navy;">Posters Session 1, Wednesday, October 5th, 6:00 PM - 7:30 PM</font></h2>
+            {% include poster-session.html session="session1" %}
+            <br />
+            <br />
+            <h2 id="session2"><font style="color:navy;">Posters Session 2, Thursday, October 6th, 6:15 PM - 7:45 PM</font></h2>
+            {% include poster-session.html session="session2" %}
+          </div><!-- /.section-content -->
+        </section><!-- /.main-content -->
+      </div><!-- /.col-md-6 -->
+
+      <div class="col-md-3">
+        {% include latest-news.html %}
+      </div><!-- /.col-md-3 -->
+
+    </div><!-- /.row -->
+  </div><!-- /.container -->
+</div>
+<!-- end Content -->
