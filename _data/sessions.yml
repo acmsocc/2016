@@ -46,6 +46,7 @@ day1:
     - David Wentzlaff (Princeton)
     title: 'Availability Knob: Flexible User-Defined Availability in the Cloud'
   title: 'Session 1: Failures'
+  chair: 'Lixin Gao'
 - end: 10:50 AM
   start: 10:20 AM
   talks: []
@@ -82,6 +83,7 @@ day1:
     - Eric P. Xing (CMU)
     title: 'Addressing the Straggler Problem for Iterative Convergent Parallel ML'
   title: 'Session 2: Complex Analytics and Machine Learning'
+  chair: 'Carlo Curino'
 - end: 1:30 PM
   start: 12:10 PM
   talks: []
@@ -121,6 +123,7 @@ day1:
     - Orran Krieger (Boston University)
     title: 'HIL: Designing an Exokernel for the Data Center'
   title: 'Session 3: Virtualization'
+  chair: 'Haryadi Gunawi'
 - end: 3:30 PM
   start: 3:05 PM
   talks: []
@@ -157,6 +160,7 @@ day1:
     - Jun Xu (Georgia Institute of Technology)
     title: 'Randomized Algorithms for Dynamic Storage Load-Balancing'
   title: 'Session 4: Storage I'
+  chair: 'Raja Sambasivan'
 - end: 5:00 PM
   start: 4:50 PM
   talks: []
@@ -218,6 +222,7 @@ day2:
     - Mike Dahlin (UT Austin)
     title: 'Privacy preserving collaboration in Bring Your Own Apps'
   title: 'Session 5: Security'
+  chair: 'Peter Pietzuch'
 - end: 10:50 AM
   start: 10:20 AM
   talks: []
@@ -256,6 +261,7 @@ day2:
     - Jan Schmitz-Hermes (IBM)
     title: 'Adaptive Caching in Big SQL using the HDFS Cache'
   title: 'Session 6: Storage II'
+  chair: 'Iqbal Mohomed'
 - end: 1:30 PM
   start: 12:10 PM
   talks: []
@@ -287,6 +293,7 @@ day2:
     - Ramesh K. Sitaraman (UMass Amherst & Akamai Tech)
     title: 'Trading Timeliness and Accuracy in Geo-Distributed Streaming Analytics'
   title: 'Session 7: Streaming Analytics'
+  chair: 'Tyson Condie'
 - end: 4:15 PM
   start: 3:45 PM
   talks: []
@@ -322,6 +329,7 @@ day2:
     - Subru Krishnan (Microsoft)
     title: 'PerfOrator: Eloquent Performance Models for Resource Optimization'
   title: 'Session 8: Performance and Tracing'
+  chair: 'Avrilia Floratou'
 - end: 6:15 PM
   start: 5:35 PM
   talks: []
@@ -373,6 +381,7 @@ day3:
     - Jason Cong (UCLA)
     title: 'Programming and Runtime Support to Blaze FPGA Accelerator Deployment at Datacenter Scale'
   title: 'Session 9: Networking and New Hardware'
+  chair: 'Hakim Weatherspoon'
 - end: 11:30 AM
   start: 11:00 AM
   talks: []
@@ -409,3 +418,4 @@ day3:
     - Todd Millstein (UCLA)
     title: 'Optimizing Interactive Development of Data-Intensive Applications'
   title: 'Session 10: Analytics Frameworks and Scheduling'
+  chair: 'Mihai Budiu'
