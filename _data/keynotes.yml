@@ -13,6 +13,6 @@ barroso:
   
 stoica:
   name: 'Ion Stoica (UC Berkeley)'
-  title: TBD
-  abstract: TBD
+  title: 'Lessons from Apache Spark: To unify or to specialize? '
+  abstract: "Almost seven years ago we started the Spark project at UC Berkeley. Apache Spark is a cluster computing engine that is optimized for in-memory processing, and unifies support for a variety of workloads, including batch, interactive querying, streaming, and iterative computations. Spark is now the most active big data project in the open source community, and is already being used by over one thousand organizations. At the same time, in the database community there has been a recent push on building specialized engines for different workloads and use cases. In this talk, I'll take a look back at our experience with building a unified engine with Apache Spark, the lessons we learned in the process, and speculate on what could make unified or specialized systems successful."
   bio1: "Ion Stoica is a Professor in the EECS Department at University of California at Berkeley. He does research on cloud computing and networked computer systems. Past work includes Dynamic Packet State, Chord DHT, Internet Indirection Infrastructure (i3), declarative networks, and large scale systems, including Apache Spark, Apache Mesos, and Alluxio. He is an ACM Fellow and has received numerous awards, including the SIGOPS Hall of Fame (2015), the SIGCOMM Test of Time Award (2011), and the ACM doctoral dissertation award (2001). In 2006, he co-founded Conviva, a startup to commercialize technologies for large scale video distribution, and in 2013, he co-founded Databricks a startup to commercialize Apache Spark."

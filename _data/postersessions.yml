@@ -165,8 +165,8 @@ session1:
   -  Anshul Gandhi (Stony Brook)
   title: 'Dynamic Interference-Aware Load Balancing'
 - authors:
-  - Tamer Eldeeb (Pure Storage)
-  -  Philip A. Bernstein (MSR)
+  - Tamer Eldeeb (Columbia University)
+  -  Philip A. Bernstein (Microsoft)
   title: 'Distributed Transactions for Actors Using Cloud Storage'
 - authors:
   - Guoxin Liu (Clemson University)
