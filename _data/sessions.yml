@@ -37,15 +37,18 @@ day1:
     - Ali Basiri (Netflix)
     - Lorin Hochstein (Netflix)
     title: 'Automating Failure Testing at Internet Scale'
+    url: 'http://dl.acm.org/authorize?N12957'
   - authors:
     - Ignacio Cano (U.Washington)
     - Srinivas Aiyar (Nutanix)
     - Arvind Krishnamurthy (U.Washington)
     title: 'Characterizing Private Clouds: A Large-Scale Empirical Analysis of Enterprise Clusters'
+    url: 'http://dl.acm.org/authorize?N12958'
   - authors:
     - Mohammad Shahrad (Princeton)
     - David Wentzlaff (Princeton)
     title: 'Availability Knob: Flexible User-Defined Availability in the Cloud'
+    url: 'http://dl.acm.org/authorize?N12959'
   title: 'Session 1: Failures'
   chair: 'Lixin Gao'
 - end: 10:50 AM
@@ -60,6 +63,7 @@ day1:
     - Aakanksha Chowdhery (Microsoft) 
     - Srikanth Kandula (Microsoft)
     title: 'Optasia: A Relational Platform for Efficient Large-Scale Video Analytics'
+    url: 'http://dl.acm.org/authorize?N12950'
   - authors:
     - Zhigang Wang (Northeastern University, China)
     - Lixin Gao (University of Massachusetts Amherst)
@@ -67,12 +71,14 @@ day1:
     - Yubin Bao (Northeastern University, China)
     - Ge Yu (Northeastern University, China)
     title: 'A Fault-Tolerant Framework for Asynchronous Iterative Computations in Cloud Environments'
+    url: 'http://dl.acm.org/authorize?N12951'
   - authors:
     - Pijika Watcharapichat (Imperial College London)
     - Victoria Lopez Morales (Imperial College London)
     - Raul Castro Fernandez (MIT)
     - Peter Pietzuch (Imperial College London)
     title: 'Ako: Decentralised Deep Learning with Partial Gradient Exchange'
+    url: 'http://dl.acm.org/authorize?N12952'
   - authors:
     - Aaron Harlap (CMU)
     - Henggang Cui (CMU)
@@ -83,6 +89,7 @@ day1:
     - Garth A. Gibson (CMU)
     - Eric P. Xing (CMU)
     title: 'Addressing the Straggler Problem for Iterative Convergent Parallel ML'
+    url: 'http://dl.acm.org/authorize?N12953'
   title: 'Session 2: Complex Analytics and Machine Learning'
   chair: 'Carlo Curino'
 - end: 1:30 PM
@@ -96,6 +103,7 @@ day1:
     - Takahiro Hirofuchi (National Institute of Advanced Industrial Science and Technology)
     - Ryousei Takano (National Institute of Advanced Industrial Science and Technology)
     title: 'RAMinate: Hypervisor-based Virtualization for Hybrid Main Memory Systems'
+    url: 'http://dl.acm.org/authorize?N12954'
   - authors:
     - Liang Liang (Shanghai Jiao Tong University)
     - Rong Chen (Shanghai Jiao Tong University)
@@ -105,6 +113,7 @@ day1:
     - Binyu Zang (Shanghai Jiao Tong University)
     - Haibing Guan (Shanghai Jiao Tong University)
     title: 'A Case for Virtualizing Persistent Memory'
+    url: 'http://dl.acm.org/authorize?N12965'
   - authors:
     - Zhiming Shen (Cornell)
     - Qin Jia (Cornell)
@@ -114,6 +123,7 @@ day1:
     - Robbert van Renesse (Cornell)
     - Hakim Weatherspoon (Cornell)
     title: 'Follow the Sun through the Clouds: Application Migration for Geographically Shifting Workloads'
+    url: 'http://dl.acm.org/authorize?N12966'
   - authors:
     - Jason Hennessey (Boston University)
     - Sahil Tikale (Boston University)
@@ -123,6 +133,7 @@ day1:
     - Peter Desnoyers (Northeastern University)
     - Orran Krieger (Boston University)
     title: 'HIL: Designing an Exokernel for the Data Center'
+    url: 'http://dl.acm.org/authorize?N12967'
   title: 'Session 3: Virtualization'
   chair: 'Haryadi Gunawi'
 - end: 3:30 PM
@@ -139,6 +150,7 @@ day1:
     - Umesh Bellur (IIT Bombay)
     - Dongyan Xu (Purdue)
     title: 'BASS: Improving I/O Performance for Cloud Block Storage via Byte-Addressable Storage Stack'
+    url: 'http://dl.acm.org/authorize?N12968'
   - authors:
     - Stanko Novakovic (EPFL)
     - Alexandros Daglis (EPFL)
@@ -146,6 +158,7 @@ day1:
     - Babak Falsafi (EPFL)
     - Boris Grot (U.Edinburgh)
     title: 'The Case for RackOut: Scalable Data Serving Using Rack-Scale Systems'
+    url: 'http://dl.acm.org/authorize?N12969'
   - authors:
     - Yang Tang (Columbia)
     - Gang Hu (Columbia)
@@ -153,6 +166,7 @@ day1:
     - Lingmei Weng (Columbia)
     - Junfeng Yang (Columbia)
     title: 'Grandet: A Unified, Economical Object Store for Web Applications'
+    url: 'http://dl.acm.org/authorize?N12960'
   - authors:
     - Liang Liu (Georgia Institute of Technology)
     - Lance Fortnow (Georgia Institute of Technology)
@@ -160,6 +174,7 @@ day1:
     - Yating Wang (Georgia Institute of Technology)
     - Jun Xu (Georgia Institute of Technology)
     title: 'Randomized Algorithms for Dynamic Storage Load-Balancing'
+    url: 'http://dl.acm.org/authorize?N12961'
   title: 'Session 4: Storage I'
   chair: 'Raja Sambasivan'
 - end: 5:00 PM
@@ -200,6 +215,7 @@ day2:
     - Thomas Ristenpart (Cornell Tech)
     - Michael Swift (U.Wisconsin-Madison)
     title: 'CQSTR: Securing Cross-tenant Applications with Cloud Containers'
+    url: 'http://dl.acm.org/authorize?N12962'
   - authors:
     - Raymond Cheng (U.Washington)
     - William Scott (U.Washington)
@@ -209,12 +225,14 @@ day2:
     - Arvind Krishnamurthy (U.Washington)
     - Thomas Anderson (U.Washington)
     title: 'Radiatus: A Shared-Nothing Server-Side Web Architecture'
+    url: 'http://dl.acm.org/authorize?N12963'
   - authors:
     - Andy Sayler (U.Colorado,Boulder)
     - Taylor Andrews (U.Colorado,Boulder)
     - Matt Monaco (U.Colorado,Boulder)
     - Dirk Grunwald (U.Colorado,Boulder)
     title: 'Tutamen: A Next-Generation Secret-Storage Platform'
+    url: 'http://dl.acm.org/authorize?N12964'
   - authors:
     - Sangmin Lee (Microsoft)
     - Deepak Goel (FireEye)
@@ -222,6 +240,7 @@ day2:
     - Asim Kadav (NEC Labs)
     - Mike Dahlin (UT Austin)
     title: 'Privacy preserving collaboration in Bring Your Own Apps'
+    url: 'http://dl.acm.org/authorize?N12975'
   title: 'Session 5: Security'
   chair: 'Peter Pietzuch'
 - end: 10:50 AM
@@ -239,6 +258,7 @@ day2:
     - Mark Oskin (U.Washington)
     - Luis Ceze (U.Washington)
     title: 'Disciplined Inconsistency with Consistency Types'
+    url: 'http://dl.acm.org/authorize?N12976'
   - authors:
     - Ji-Yong Shin (Cornell)
     - Mahesh Balakrishnan (Yale)
@@ -246,6 +266,7 @@ day2:
     - Jakub Szefer (Yale)
     - Hakim Weatherspoon (Cornell)
     title: 'Towards Weakly Consistent Local Storage Systems'
+    url: 'http://dl.acm.org/authorize?N12977'
   - authors:
     - Weijia Song (Cornell)
     - Theo Gkountouvas (Cornell)
@@ -253,6 +274,7 @@ day2:
     - Qi Chen (Peking University)
     - Zhen Xiao (Peking University)
     title: 'The Freeze-Frame File System'
+    url: 'http://dl.acm.org/authorize?N12978'
   - authors:
     - Avrilia Floratou (IBM)
     - Nimrod Megiddo (IBM)
@@ -261,6 +283,7 @@ day2:
     - Uday Kale (IBM)
     - Jan Schmitz-Hermes (IBM)
     title: 'Adaptive Caching in Big SQL using the HDFS Cache'
+    url: 'http://dl.acm.org/authorize?N12979'
   title: 'Session 6: Storage II'
   chair: 'Iqbal Mohomed'
 - end: 1:30 PM
@@ -281,6 +304,7 @@ day2:
     - Erik T. Krogen (UC Berkeley)
     - Joseph M. Hellerstein (UC Berkeley)
     title: 'ReStream: Accelerating Backtesting and Stream Replay with Serial-Equivalent Parallel Processing'
+    url: 'http://dl.acm.org/authorize?N12970'
   - authors:
     - Julian James Stephen (Purdue)
     - Savvas Savvides (Purdue)
@@ -288,11 +312,13 @@ day2:
     - Masoud Saeida Ardekani (Purdue)
     - Patrick Eugster (TU Darmstadt)
     title: 'STYX: Stream Processing with Trustworthy Cloud-based Execution'
+    url: 'http://dl.acm.org/authorize?N12971'
   - authors:
     - Benjamin Heintz (U.Minnesota)
     - Abhishek Chandra (U.Minnesota)
     - Ramesh K. Sitaraman (UMass Amherst & Akamai Tech)
     title: 'Trading Timeliness and Accuracy in Geo-Distributed Streaming Analytics'
+    url: 'http://dl.acm.org/authorize?N12972'
   title: 'Session 7: Streaming Analytics'
   chair: 'Tyson Condie'
 - end: 4:15 PM
@@ -307,6 +333,7 @@ day2:
     - Daniel S. Berger (U.Kaiserslautern)
     - Mor Harchol-Balter (CMU)
     title: 'SNC-Meister: Admitting More Tenants with Tail Latency SLOs'
+    url: 'http://dl.acm.org/authorize?N12973'
   - authors:
     - Rebecca Taft (MIT)
     - Willis Lang (Microsoft Gray Systems Lab)
@@ -315,6 +342,7 @@ day2:
     - Michael Stonebraker (MIT)
     - David DeWitt (Microsoft Gray Systems Lab)
     title: 'STeP: Scalable Tenant Placement for Managing Database-as-a-Service Deployments'
+    url: 'http://dl.acm.org/authorize?N12974'
   - authors:
     - Raja R. Sambasivan (CMU)
     - Ilari Shafer (Microsoft)
@@ -323,12 +351,14 @@ day2:
     - Rodrigo Fonseca (Brown)
     - Gregory R. Ganger (CMU)
     title: 'Principled Workflow-Centric Tracing of Distributed Systems'
+    url: 'http://dl.acm.org/authorize?N12985'
   - authors:
     - Kaushik Rajan (Microsoft)
     - Dharmesh Kakadia (Microsoft)
     - Carlo Curino (Microsoft)
     - Subru Krishnan (Microsoft)
     title: 'PerfOrator: Eloquent Performance Models for Resource Optimization'
+    url: 'http://dl.acm.org/authorize?N12986'
   title: 'Session 8: Performance and Tracing'
   chair: 'Avrilia Floratou'
 - end: 6:15 PM
@@ -365,6 +395,7 @@ day3:
     - Katerina Argyraki (EPFL)
     - Edouard Bugnion (EPFL)
     title: 'VNToR: Network Virtualization at the Top-of-Rack Switch'
+    url: 'http://dl.acm.org/authorize?N12987'
   - authors:
     - Peng Wang (City University of Hong Kong)
     - Hong Xu (City University of Hong Kong)
@@ -372,6 +403,7 @@ day3:
     - Dongsu Han (KAIST)
     - Yongqiang Xiong (MSR Asia)
     title: 'Expeditus: Congestion-Aware Load Balancing in Clos Data Center Networks'
+    url: 'http://dl.acm.org/authorize?N12988'
   - authors:
     - Muhuan Huang (UCLA, Falcon Computing Solutions)
     - Di Wu (UCLA, Falcon Computing Solutions)
@@ -381,6 +413,7 @@ day3:
     - Tyson Condie (UCLA)
     - Jason Cong (UCLA)
     title: 'Programming and Runtime Support to Blaze FPGA Accelerator Deployment at Datacenter Scale'
+    url: 'http://dl.acm.org/authorize?N12989'
   title: 'Session 9: Networking and New Hardware'
   chair: 'Hakim Weatherspoon'
 - end: 11:30 AM
@@ -395,6 +428,7 @@ day3:
     - Alvin Cheung (U.Washington)
     - Magdalena Balazinska (U.Washington)
     title: 'PipeGen: Data Pipe Generator for Hybrid Analytics'
+    url: 'http://dl.acm.org/authorize?N12980'
   - authors:
     - Ying Yan (MSR)
     - Yanjie Gao (MSR)
@@ -403,12 +437,14 @@ day3:
     - Bole Chen (CMU)
     - Thomas Moscibroda (MSR)
     title: 'TR-Spark: Transient Computing for Big Data Analytics'
+    url: 'http://dl.acm.org/authorize?N12981'
   - authors:
     - Pamela Delgado (EPFL)
     - Diego Didona (EPFL)
     - Florin Dinu (EPFL)
     - Willy Zwaenepoel (EPFL)
     title: 'Job-Aware Scheduling in Eagle: Divide and Stick to Your Probes'
+    url: 'http://dl.acm.org/authorize?N12982'
   - authors:
     - Matteo Interlandi (UCLA)
     - Sai Deep Tetali (UCLA)
@@ -418,5 +454,6 @@ day3:
     - Miryung Kim (UCLA)
     - Todd Millstein (UCLA)
     title: 'Optimizing Interactive Development of Data-Intensive Applications'
+    url: 'http://dl.acm.org/authorize?N12983'
   title: 'Session 10: Analytics Frameworks and Scheduling'
   chair: 'Mihai Budiu'
